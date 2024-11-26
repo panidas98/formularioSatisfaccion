@@ -4,7 +4,7 @@ import base64
 from github import Github
 
 # Configuración de GitHub
-GITHUB_TOKEN = "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"  # Reemplaza con tu token
+GITHUB_TOKEN = "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"  # Reemplaza con tu token
 REPO_NAME = "panidas98/formularioSatisfaccion"  # Reemplaza con el nombre de tu repositorio
 FILE_PATH = "blob/main/respuestas_formulario.xlsx"  # Ruta en el repositorio
 
