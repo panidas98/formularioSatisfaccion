@@ -6,7 +6,7 @@ from github import Github
 # Configuración de GitHub
 GITHUB_TOKEN = "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"  # Reemplaza con tu token
 REPO_NAME = "panidas98/formularioSatisfaccion"  # Reemplaza con el nombre de tu repositorio
-FILE_PATH = "blob/main/respuestas_formulario.xlsx"  # Ruta en el repositorio
+FILE_PATH = "main/respuestas_formulario.xlsx"  # Ruta en el repositorio
 
 # Función para validar el nombre de usuario
 def validar_usuario(usuario):
