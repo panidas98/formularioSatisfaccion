@@ -1,3 +1,4 @@
-streamlit==1.26.0
-pandas==2.1.1
-PyGithub==1.59.0
+streamlit
+pandas
+PyGithub
+openpyxl
